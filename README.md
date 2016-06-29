@@ -1,0 +1,1 @@
+﻿# symax-jr-module
